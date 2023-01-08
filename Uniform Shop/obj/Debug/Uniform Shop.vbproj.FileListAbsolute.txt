@@ -1,0 +1,31 @@
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.exe.config
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.exe
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.pdb
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.xml
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbprojAssemblyReference.cache
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Resources.resources
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbproj.GenerateResource.cache
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbproj.CoreCompileInputs.cache
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.exe
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.xml
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.pdb
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Homepage.resources
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Stock.resources
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Ostock.resources
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Istock.resources
+C:/Users/Tongyu Hu/Desktop/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Pstock.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbproj.AssemblyReference.cache
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Homepage.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Istock.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Resources.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Ostock.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Pstock.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform_Shop.Stock.resources
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbproj.GenerateResource.cache
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.vbproj.CoreCompileInputs.cache
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.exe
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.xml
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/obj/Debug/Uniform Shop.pdb
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.exe.config
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.exe
+/Volumes/Samsung_T5/Visual Studio Projects/Uniform Shop/Uniform Shop/bin/Debug/Uniform Shop.pdb
